@@ -1,2 +1,2 @@
 # DeepLearning
-My journey to becoming a certified Tensorflow Developer.
+My journey to become a certified Tensorflow Developer.
